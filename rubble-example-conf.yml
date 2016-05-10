@@ -1,0 +1,12 @@
+input:
+  path: elements/  
+output:
+  resolution: hd
+  path: output/
+  still: example-song-still.png
+  video: example-song-video.mkv
+elements:
+  art: art-example-song.png
+  bg: bg-example-song.png
+  blur: 27.0x14.0
+  music: example-song.ogg
